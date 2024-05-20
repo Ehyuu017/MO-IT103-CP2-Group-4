@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 
 /**
- * MO-IT101 - Computer Programming 1
+ * MO-IT103 - Computer Programming 1
  * Mentor: Yves Tomkins Ocampo
  * Section: A1103
  * Group 2
